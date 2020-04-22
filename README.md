@@ -1,6 +1,6 @@
 # directory-organizer
 
-A simple python program to organize a directory by filename. Inspired by https://www.reddit.com/r/Python/comments/g4pfjj/i_made_a_python_script_that_organizes_a_folder/
+A simple python program to organize a directory by filename. Inspired by [this reddit post](https://www.reddit.com/r/Python/comments/g4pfjj/i_made_a_python_script_that_organizes_a_folder/)
 
 ## usage
 
