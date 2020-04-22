@@ -1,14 +1,14 @@
-# directory-organizer
+# Directory Organizer
 
 A simple python program to organize a directory by filename. Inspired by [this reddit post](https://www.reddit.com/r/Python/comments/g4pfjj/i_made_a_python_script_that_organizes_a_folder/)
 
-## usage
+## Usage
 
 `python3 organizer.py PATH`
 
 path - absolute file path to directory to organize (example: `~/Pictures`)
 
-## what happens?
+## What Happens?
 
 lets say you had the following structure
 
@@ -47,4 +47,11 @@ Pictures
     bar.gif
     far.gif
     baz.gif
+```
+
+## Installation
+```
+git clone https://github.com/jonot-cyber/directory-organizer.git
+cd directory-organizer
+python3 organizer.py PATH
 ```
